@@ -11,7 +11,6 @@ class App extends Component {
           <h1>My Blog</h1>
         </div>
       </div>
-
     );
   }
 }
